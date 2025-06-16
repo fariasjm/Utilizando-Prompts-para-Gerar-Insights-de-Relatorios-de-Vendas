@@ -17,7 +17,8 @@ Os produtos são vendidos globalmente
 2. Qual é a faixa etária predominante dos compradores?
    Resp.: A Faixa de 25-34 anos representa 60% dos compradores.
 
-4. Quais os principais países de destino das entregas?
+
+5. Quais os principais países de destino das entregas?
    Resp.: EUA (40%), Brasil (30%), Alemanha (15%), outros (15%).
    
 
