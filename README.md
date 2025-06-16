@@ -12,16 +12,19 @@ Os produtos são vendidos globalmente
 
 ## Prompts e Resultados
 1. Quais foram os produtos mais vendidos em cada plataforma no último mês?
+
    AliExpress: Produto A (500 unidades),
    Shopee: Produto B (300 unidades),
    Etsy: Produto C (200 unidades).
 
 3. Qual é a faixa etária predominante dos compradores?
-   Resp.: A Faixa de 25-34 anos representa 60% dos compradores.
+
+   A Faixa de 25-34 anos representa 60% dos compradores.
 
 
 5. Quais os principais países de destino das entregas?
-   Resp.: EUA (40%), Brasil (30%), Alemanha (15%), outros (15%).
+
+   EUA (40%), Brasil (30%), Alemanha (15%), outros (15%).
    
 
 
